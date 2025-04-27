@@ -29,9 +29,7 @@
 <a href="https://hits.seeyoufarm.com"><img src=""/></a>
 </p>
 
-<h1 align="center">
- <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
-</h1>
+
 
 # 📒Introdicton 
 * Auto update playlists 
@@ -39,7 +37,7 @@
 
 # 💥Key Features
 
-* All The Channel Links Are Updated Every 30 Minutes
+* All The Channel Links Are Updated Every 15 Minutes
 * Premium Channels Are Also Working
 * Contains Link
 * In JSON Format
@@ -70,7 +68,10 @@
 *  Enjoy 😊
 
 <h1 align="center">
- <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
+ <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
+</h1>
+<h1 align="center">
+ <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/playss.jpg"></a>
 </h1>
 
 
