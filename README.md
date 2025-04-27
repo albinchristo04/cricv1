@@ -5,13 +5,13 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/toffee_logo.jpeg" alt="🔥 Toffee 🔥" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://raw.githubusercontent.com/abusaeeidxnoob/CricHd-playlists-Auto-Update-permanent/refs/heads/main/logo.jpg" alt="🔥 Toffee 🔥" width="200"></a>
   <br>
   🔥 Toffee 🔥
   <br>
 </h1>
 
-<h2 align="center">A Script to trigger the GitHub Actions every day to update the Toffee App Channels Link and Cookie </h2>
+<h2 align="center">A Script to trigger the GitHub Actions every day to update the Channels Link</h2>
 
 <p align="center">
   <a href="https://www.python.org/">
