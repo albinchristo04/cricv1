@@ -58,13 +58,13 @@
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u)
-* 👆 Short Link : 
+* 👆 Short Link : https://crichd-playlist-by-noob.pages.dev/ALL.m3u
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u)
-*  👆 Short Link : 
+*  👆 Short Link : https://crichd-playlist-by-noob.pages.dev/ALL.m3u
 *  Enjoy 😊
 
 <h1 align="center">
