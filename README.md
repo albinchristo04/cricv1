@@ -72,13 +72,10 @@
 <h1 align="center">
  <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
 </h1>
-<h1 align="center">
- <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/ott_view.jpg"></a>
-</h1>
 
 
 # 🚬Credits
-x fire flix
+ABU SAEEID X NOOB
 
 
 # 📝Note
@@ -102,9 +99,9 @@ x fire flix
 - [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/abusaeeidx)
 
 
-- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/XFireFlix)
+- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/ABUSAEEIDX)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/XFireFlix)
+- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/ABUSAEEIDX)
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update 
