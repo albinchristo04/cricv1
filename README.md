@@ -68,7 +68,7 @@
 *  Enjoy 😊
 
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img style="margin: 40px; height: 100px; width: 200px;" src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
+ <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img style="margin: 40px; height: 70%; width: 80%;" src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
 </h1>
 
 
