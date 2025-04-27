@@ -68,11 +68,9 @@
 *  Enjoy 😊
 
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
+ <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img style="margin: 40px; height: 100px; width: 200px;" src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg"></a>
 </h1>
-<h1 align="center">
- <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/playss.jpg"></a>
-</h1>
+
 
 
 # 🚬Credits
@@ -103,6 +101,7 @@ ABU SAEEID X NOOB
 - [![Messenger](https://img.shields.io/badge/Messenger-abusaeeix-orange?style=for-the-badge&logo=messenger)](https://t.me/ABUSAEEIDX)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-AbuSaeeidx-indigo?style=for-the-badge&logo=telegram)](https://t.me/ABUSAEEIDX)
+- Bx
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update 
