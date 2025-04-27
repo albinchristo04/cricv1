@@ -69,7 +69,7 @@
 
 <h1 align="center">
   <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg" alt="Channel Image" width="100" style="margin: 20px;">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss.jpg" alt="Channel Image" width="400" style="margin: 20px;">
   </a>
 </h1>
 
