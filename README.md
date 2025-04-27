@@ -97,12 +97,12 @@ ABU SAEEID X NOOB
 
 # ✉️Find Me on 
 
-- [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/abusaeeidx)
+- [![Github](https://img.shields.io/badge/Github-ABU-SAEEID-X-purple?style=for-the-badge&logo=github)](https://github.com/abusaeeidx)
 
 
-- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/ABUSAEEIDX)
+- [![Messenger](https://img.shields.io/badge/Messenger-abusaeeix-orange?style=for-the-badge&logo=messenger)](https://t.me/ABUSAEEIDX)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/ABUSAEEIDX)
+- [![Telegram](https://img.shields.io/badge/Telegram-Abu-Saeeid-x-indigo?style=for-the-badge&logo=telegram)](https://t.me/ABUSAEEIDX)
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update 
