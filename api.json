@@ -3,7 +3,7 @@
         "name": "Star Sports 1",
         "id": "star1in",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/16-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/star1in.m3u8?md5=R4HJvN51dtkfzuqJidv6FA&expires=1746202556",
+        "link": "https://m6.merichunidya.com:999/hls/star1in.m3u8?md5=gfuTcQMTmBGrV8hPO8nJbw&expires=1746204099",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -11,23 +11,20 @@
         "name": "Star Sports 1 Hindi",
         "id": "starhindi",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/starhindi.m3u8?md5=Xhe0wD8n5w0kJJRQJraWYA&expires=1746202557",
+        "link": "https://m7.merichunidya.com:999/hls/starhindi.m3u8?md5=IPUzt2Cg1aLg603Q8enzQA&expires=1746204099",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "PTV Sports",
-        "id": "ptvpk",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/20-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/ptvpk.m3u8?md5=TAk-KviE1cxjHfoyYiDvyw&expires=1746202557",
-        "referer": "https://stylisheleg4nt.com",
-        "origin": "https://stylisheleg4nt.com"
+        "error": "Token not found or failed to fetch."
     },
     {
         "name": "Willow HD",
         "id": "willowusa",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/willowusa.m3u8?md5=vg_YOBabTQI53lQRyKaC7Q&expires=1746202557",
+        "link": "https://m6.merichunidya.com:999/hls/willowusa.m3u8?md5=-RStML-ZZLPDMTFfJvcGPA&expires=1746204099",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -35,7 +32,7 @@
         "name": "Willow HD 2",
         "id": "willowextra",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/willowextra.m3u8?md5=44pbOe0jIuiV78cbm8uKaQ&expires=1746202557",
+        "link": "https://m5.merichunidya.com:999/hls/willowextra.m3u8?md5=AXc9Ry0V8cHziEtK1OOZyQ&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -43,7 +40,7 @@
         "name": "Ten Sports",
         "id": "tenspk",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/tenspk.m3u8?md5=NP0LS4OKGLHJdAC34EEekg&expires=1746202557",
+        "link": "https://m7.merichunidya.com:999/hls/tenspk.m3u8?md5=va2FHReGS74Hhd2eGUs8Zw&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -51,7 +48,7 @@
         "name": "A Sports HD",
         "id": "asportshd",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/12-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/asportshd.m3u8?md5=DTMDLzrMPB2FXbwNrhLGWQ&expires=1746202557",
+        "link": "https://m6.merichunidya.com:999/hls/asportshd.m3u8?md5=x59JSVB_EMoVtFgXJIBwlw&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -59,7 +56,7 @@
         "name": "Sky Sports Cricket",
         "id": "skyscric",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/9-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/skyscric.m3u8?md5=unEOizx_GXFc4Qb7VepL5g&expires=1746202558",
+        "link": "https://m6.merichunidya.com:999/hls/skyscric.m3u8?md5=oJooChXY9L8sfv5-1I2atw&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -67,7 +64,7 @@
         "name": "Sky Sports Main Event",
         "id": "skysme",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/18-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/skysme.m3u8?md5=FllrRwPV40fT7Kr1JsZ9dw&expires=1746202558",
+        "link": "https://m7.merichunidya.com:999/hls/skysme.m3u8?md5=ZC-jgjr_wJi8Qms5WX199w&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -75,25 +72,31 @@
         "name": "TNT 1",
         "id": "bbtsp1",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "link": "https://m5.merichunidya.com:999/hls/bbtsp1.m3u8?md5=fRAaZpoy1iaKA-YtWD42Gg&expires=1746202558",
+        "link": "https://m7.merichunidya.com:999/hls/bbtsp1.m3u8?md5=2yyK5ykqCp98LFqBGkq7eg&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "TNT 2",
+        "id": "bbtsp2",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "error": "Token not found or failed to fetch."
+        "link": "https://m6.merichunidya.com:999/hls/bbtsp2.m3u8?md5=oGnko8nWnI8mmxl9EniL7Q&expires=1746204100",
+        "referer": "https://stylisheleg4nt.com",
+        "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "TNT 3",
+        "id": "bbtsp3",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "error": "Token not found or failed to fetch."
+        "link": "https://m6.merichunidya.com:999/hls/bbtsp3.m3u8?md5=omcDQwP02dOPdLfIE1XxSQ&expires=1746204100",
+        "referer": "https://stylisheleg4nt.com",
+        "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "TNT 4",
         "id": "bbtespn",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png",
-        "link": "https://m6.merichunidya.com:999/hls/bbtespn.m3u8?md5=txJbsy1BHYXgw6aghaHfug&expires=1746202558",
+        "link": "https://m6.merichunidya.com:999/hls/bbtespn.m3u8?md5=QavbZfpN3-ODJuRMP_KzkA&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -101,7 +104,7 @@
         "name": "Sky Sports 1",
         "id": "sky1nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/sky1nz.m3u8?md5=HYuieghGAXGtHn0JNsskFA&expires=1746202559",
+        "link": "https://m6.merichunidya.com:999/hls/sky1nz.m3u8?md5=sanHRI6cc1Vbnl1bBHzYHA&expires=1746204100",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -109,7 +112,7 @@
         "name": "Sky Sports 2",
         "id": "sky2nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/sky2nz.m3u8?md5=mEyf5B__OA8NTUWidP78JA&expires=1746202559",
+        "link": "https://m7.merichunidya.com:999/hls/sky2nz.m3u8?md5=RoAvHnKStTJefkhN3y_L7A&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -117,7 +120,7 @@
         "name": "Sky Sports 3",
         "id": "sky3nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/sky3nz.m3u8?md5=C7n4wepnq2uYqO7DVG8Azw&expires=1746202559",
+        "link": "https://m5.merichunidya.com:999/hls/sky3nz.m3u8?md5=n6_6OoaDy1y4nyZewYMPvA&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -125,7 +128,7 @@
         "name": "Sky Sports 4",
         "id": "sky4nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/sky4nz.m3u8?md5=fLwZ6QQlHR7gdMVgf6qBYg&expires=1746202559",
+        "link": "https://m6.merichunidya.com:999/hls/sky4nz.m3u8?md5=tQEVBR5KtQTcWJJMm_YX5g&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -133,7 +136,7 @@
         "name": "Sky Sports 5",
         "id": "sky5nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/sky5nz.m3u8?md5=vwuJ0x1B9AdUr3UbmJudUw&expires=1746202559",
+        "link": "https://m6.merichunidya.com:999/hls/sky5nz.m3u8?md5=BWjARX2b3WFCDywQrz_OOA&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -141,7 +144,7 @@
         "name": "Sky Sports 6",
         "id": "sky6nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/sky6nz.m3u8?md5=7aSkn9zTKypGR5S31QEDug&expires=1746202560",
+        "link": "https://m6.merichunidya.com:999/hls/sky6nz.m3u8?md5=c4XZNBgrX7lYPXQucVviaw&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -149,7 +152,7 @@
         "name": "Sky Sports 7",
         "id": "sky7nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/sky7nz.m3u8?md5=ZSNcqnIhCedAesE-ATebaA&expires=1746202560",
+        "link": "https://m6.merichunidya.com:999/hls/sky7nz.m3u8?md5=wGeV9TkMY6RwRPrQDSr2yQ&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -157,7 +160,7 @@
         "name": "Sky Sports 8",
         "id": "sky8nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/sky8nz.m3u8?md5=gAYS-ksGmhZjJXZEvRtLeA&expires=1746202560",
+        "link": "https://m5.merichunidya.com:999/hls/sky8nz.m3u8?md5=5L6CIjhszjITG4z2byYdDA&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -165,7 +168,7 @@
         "name": "Sky Sports 9",
         "id": "sky9nz",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/56-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/sky9nz.m3u8?md5=uDd_v77OGnqThBRsAzfXKQ&expires=1746202560",
+        "link": "https://m5.merichunidya.com:999/hls/sky9nz.m3u8?md5=BfCnpGhpkw2-mkYfKf64Iw&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -173,7 +176,7 @@
         "name": "Sky Cinema",
         "id": "skysme",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/skycinema.png",
-        "link": "https://m5.merichunidya.com:999/hls/skysme.m3u8?md5=Z9e4guKmVyo8jr51dPZNpw&expires=1746202560",
+        "link": "https://m7.merichunidya.com:999/hls/skysme.m3u8?md5=g-Use2a3g7gMDZLmVxk5WA&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -181,7 +184,7 @@
         "name": "Sky Sports Action",
         "id": "skysact",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745007829332.png",
-        "link": "https://m6.merichunidya.com:999/hls/skysact.m3u8?md5=4SYPp-diU06OVuvvhh6_SQ&expires=1746202561",
+        "link": "https://m5.merichunidya.com:999/hls/skysact.m3u8?md5=_aD9oR996vnhAu2AFvfF7g&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -189,7 +192,7 @@
         "name": "Sky Sports Golf",
         "id": "skysgol",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008055327.png",
-        "link": "https://m5.merichunidya.com:999/hls/skysgol.m3u8?md5=4VU1k3T5neATMzxjALhQSw&expires=1746202561",
+        "link": "https://m6.merichunidya.com:999/hls/skysgol.m3u8?md5=Qi_rrbJI0--cWqvcxRTatQ&expires=1746204101",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -197,7 +200,7 @@
         "name": "Sky Sports Premier League",
         "id": "skysprem",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/43-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/skysprem.m3u8?md5=zCG8HhrmUwBb7TPqrHbyMA&expires=1746202561",
+        "link": "https://m6.merichunidya.com:999/hls/skysprem.m3u8?md5=hFUIAXUkTD7PguQo9sPUyQ&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -205,7 +208,7 @@
         "name": "Sky Sports Football",
         "id": "skysfott",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/44-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/skysfott.m3u8?md5=QToGyQ0koSOCkmxlMfWyJg&expires=1746202561",
+        "link": "https://m5.merichunidya.com:999/hls/skysfott.m3u8?md5=8Hl4_D5OZT0Mf3lhV-U4sw&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -213,23 +216,20 @@
         "name": "Sky Sports Plus",
         "id": "skysare",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008347584.png",
-        "link": "https://m6.merichunidya.com:999/hls/skysare.m3u8?md5=EJY5rTcGjQ8SWm-Hgzwjdg&expires=1746202561",
+        "link": "https://m6.merichunidya.com:999/hls/skysare.m3u8?md5=bitcTERQMseWCB2kVmyZ2w&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
     {
         "name": "Sky Sports F1",
-        "id": "skysfor1",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008468637.png",
-        "link": "https://m5.merichunidya.com:999/hls/skysfor1.m3u8?md5=52GbclVkU9XlMvrtfqh2MA&expires=1746202561",
-        "referer": "https://stylisheleg4nt.com",
-        "origin": "https://stylisheleg4nt.com"
+        "error": "Token not found or failed to fetch."
     },
     {
         "name": "LaLiGA",
         "id": "laligauk",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/19-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/laligauk.m3u8?md5=NCb1Q2sFkRJh5mrw0mvVQw&expires=1746202562",
+        "link": "https://m6.merichunidya.com:999/hls/laligauk.m3u8?md5=zpP6Q8I3GLGcKKVBl6KVrQ&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -237,7 +237,7 @@
         "name": "Premier Sports 1",
         "id": "premieruk",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/31-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/premieruk.m3u8?md5=CF-qTWIFGcjc-knDouBUjA&expires=1746202562",
+        "link": "https://m7.merichunidya.com:999/hls/premieruk.m3u8?md5=LhlrNkNBUw4i5s7wODjXTw&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -245,7 +245,7 @@
         "name": "Premier Sports 2",
         "id": "hdchnl2",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/31-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/hdchnl2.m3u8?md5=4U2w63Cm9lkRuR-hzPHkHg&expires=1746202562",
+        "link": "https://m5.merichunidya.com:999/hls/hdchnl2.m3u8?md5=9stUEJ3f73e_US9Lja05BQ&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -253,7 +253,7 @@
         "name": "Super Football",
         "id": "superfotball",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/34-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/superfotball.m3u8?md5=Bqsnm0htL6oyF0wVkOO8rw&expires=1746202562",
+        "link": "https://m6.merichunidya.com:999/hls/superfotball.m3u8?md5=NRSFlRxU5_VGZily4zP7Iw&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -261,7 +261,7 @@
         "name": "Super Premier League",
         "id": "superpremier",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008781606.png",
-        "link": "https://m6.merichunidya.com:999/hls/superpremier.m3u8?md5=K0ofzHQCUnbKG1NaYlSGRA&expires=1746202562",
+        "link": "https://m6.merichunidya.com:999/hls/superpremier.m3u8?md5=f7-xDoDyMxi72dmuFcyBvQ&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -269,7 +269,7 @@
         "name": "Astro Cricket",
         "id": "fox501",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png",
-        "link": "https://m6.merichunidya.com:999/hls/fox501.m3u8?md5=YcBl9vrg1M4Elvds79OunA&expires=1746202562",
+        "link": "https://m5.merichunidya.com:999/hls/fox501.m3u8?md5=tAXMj_d3a3srbzpH1ZaQMA&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -277,7 +277,7 @@
         "name": "ESPN 1",
         "id": "espnusa",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/17-by-xfireflix.png",
-        "link": "https://m5.merichunidya.com:999/hls/espnusa.m3u8?md5=fIPKJZH_zyuXRFJtsENmVA&expires=1746202563",
+        "link": "https://m5.merichunidya.com:999/hls/espnusa.m3u8?md5=8diuOIqD1Dap6ajO-NZbnA&expires=1746204102",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -285,7 +285,7 @@
         "name": "ESPN 2",
         "id": "espn2",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/17-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/espn2.m3u8?md5=rxtfoNiVL6hGb1onSvFvSg&expires=1746202563",
+        "link": "https://m7.merichunidya.com:999/hls/espn2.m3u8?md5=_Pt_vpadxE4_jWzGTfvbhg&expires=1746204103",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -293,7 +293,7 @@
         "name": "Sky Sports Arena",
         "id": "skysare",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745007829327.png",
-        "link": "https://m5.merichunidya.com:999/hls/skysare.m3u8?md5=46EX40prj0lSDR5WrpfaQw&expires=1746202563",
+        "link": "https://m7.merichunidya.com:999/hls/skysare.m3u8?md5=LB8Tcu2DO9gtn52s-H_IbQ&expires=1746204103",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -301,7 +301,7 @@
         "name": "Sky Sports Mix",
         "id": "skysmixx",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/13-by-xfireflix.png",
-        "link": "https://m7.merichunidya.com:999/hls/skysmixx.m3u8?md5=dMObDlKgeekmroHhlcy7Qg&expires=1746202563",
+        "link": "https://m6.merichunidya.com:999/hls/skysmixx.m3u8?md5=rq0PeXMiNn3hncJ8R9xtAw&expires=1746204103",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -309,7 +309,7 @@
         "name": "Sky Sports Tennis",
         "id": "skystennis",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745009085794.png",
-        "link": "https://m5.merichunidya.com:999/hls/skystennis.m3u8?md5=_bY7KKoxTm4m6Rg2HJZ2oA&expires=1746202563",
+        "link": "https://m6.merichunidya.com:999/hls/skystennis.m3u8?md5=nhZRgGh9xX3lGgtklQnANQ&expires=1746204103",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     },
@@ -317,7 +317,7 @@
         "name": "Fox Cricket 501 HD",
         "id": "fox501",
         "logo": "https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/6-by-xfireflix.png",
-        "link": "https://m6.merichunidya.com:999/hls/fox501.m3u8?md5=iGDpRIJVIPV_PSxj6IZxYQ&expires=1746202563",
+        "link": "https://m7.merichunidya.com:999/hls/fox501.m3u8?md5=1b9LEgjfY6AU7Laa-5VMlQ&expires=1746204103",
         "referer": "https://stylisheleg4nt.com",
         "origin": "https://stylisheleg4nt.com"
     }
