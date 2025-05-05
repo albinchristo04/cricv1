@@ -37,7 +37,7 @@
 
 # 💥Key Features
 
-* All The Channel Links Are Updated Every 30 Minutes
+* All The Channel Links Are Updated Every 15 Minutes
 * Premium Channels Are Also Working
 * Contains Link
 * In JSON Format
