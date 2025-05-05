@@ -7,7 +7,7 @@
   <br>
   <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/logo.jpg" alt="🔥CricHD🔥" width="200"></a>
   <br>
-  🔥CricHd playlists🔥
+  🔥CricHd playlist🔥
   <br>
 </h1>
 
