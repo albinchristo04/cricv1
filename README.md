@@ -110,9 +110,9 @@ Every time you click an ad, you're giving a **free donation** — like handing u
 - [![Github](https://img.shields.io/badge/Github-ABUSAEEIDX-purple?style=for-the-badge&logo=github)](https://github.com/abusaeeidx)
 
 
-- [![Messenger](https://img.shields.io/badge/Messenger-abusaeeix-orange?style=for-the-badge&logo=messenger)](https://t.me/ABUSAEEIDX)
+- [![Messenger](https://img.shields.io/badge/Messenger-abusaeeix-orange?style=for-the-badge&logo=messenger)](https://t.me/AbuSaeedX)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-AbuSaeeidx-indigo?style=for-the-badge&logo=telegram)](https://t.me/ABUSAEEIDX)
+- [![Telegram](https://img.shields.io/badge/Telegram-AbuSaeeidx-indigo?style=for-the-badge&logo=telegram)](https://t.me/AbuSaeedX)
 - Bx
 #CricHd playlists Auto Update permanent 
 #CricHd playlists Auto Update permanent 
