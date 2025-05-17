@@ -77,7 +77,15 @@
 
 # 🚬Credits
 ABU SAEEID X NOOB
-# ❤️ open source 
+# 🏏 Open Source
+
+- 🔓 First **Unlock** the link  
+- 📥 Then **Download**
+
+---
+
+### Download Link  
+[⬇️ Click here to Download]()
 
 # 📝Note
 * The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
