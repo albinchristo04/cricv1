@@ -75,7 +75,7 @@
 
 
 
-# 🏏 Open Source
+# 📂 Open Source
 
 - 🔓 First **Unlock** the link  
 - 📥 Then **Download**
@@ -83,15 +83,14 @@
 ### Download Link  
 [⬇️ Click here to Download]()
 
-# 🚬Credits
-By ABU SAEEID X NOOB
-
 # 📝Note
 * The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
 * Please give me proper credit if you share this content. Otherwise, I will take it down.
 * The codes of the repo are encrypted to ensure security. Please refrain from trying to run or deploy them 
 * All country work but without India
 
+# 🚬Credits
+ABU SAEEID X NOOB
 
 
 # ❤️ Support This Project
