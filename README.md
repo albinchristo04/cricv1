@@ -88,14 +88,10 @@ ABU SAEEID X NOOB
 
 
 
-# 💰Support
+# ❤️ Support This Project
 
-<a href="" target="_blank"><img src="" alt="support " style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## ❤️ Support This Project – No Payment Required!
-
-### 🎁 Free Donation – Just by Clicking Ads
-Your clicks make a difference!
+### 🎁 Free Donation – Just Click
+Your clicks make a difference 
 
 Help us keep this project alive and growing — **without spending a penny**.  
 Every time you click an ad, you're giving a **free donation** — like handing us a virtual coffee ☕ — powered by ads!
