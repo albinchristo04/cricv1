@@ -77,7 +77,7 @@
 
 # 🚬Credits
 ABU SAEEID X NOOB
-
+# ❤️ open source 
 
 # 📝Note
 * The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
@@ -96,7 +96,7 @@ Your clicks make a difference
 Help us keep this project alive and growing — **without spending a penny**.  
 Every time you click an ad, you're giving a **free donation** — like handing us a virtual coffee ☕ — powered by ads!
 
-### [✨ Click Here to Donate for Free! ✨](https://your-ad-click-link.com)
+### [✨ Click Here to Donate for Free! ✨](https://abusaeeidx.github.io/Support/)
 
 > ✅ 100% Free | ❌ No Payment Needed | 🖱️ Just One Click = Big Help!
 
