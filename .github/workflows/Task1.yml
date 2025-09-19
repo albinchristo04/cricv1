@@ -9,35 +9,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: S1
+      - name: S1 - Checkout repo
         uses: actions/checkout@v4
 
-      - name: S2
+      - name: S2 - Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: S3
+      - name: S3 - Install dependencies
         run: pip install requests
 
-      - name: S4
-        run: unzip -P ${{ secrets.TOKENS }} run.zip
-
-      - name: S5
+      - name: S4 - Run script
         run: python run.py
 
-      - name: S6
+      - name: S5 - Clean up
         if: always()
-        run: rm -f run.py
+        run: rm -f run.py || true
 
-      - name: S7
+      - name: S6 - Commit changes
         run: |
           git config --local user.email "${{ secrets.EMAIL }}"
           git config --local user.name "${{ secrets.USERNAME }}"
           git add api.json ALL.m3u
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto update api.json and ALL.m3u"
 
-      - name: S8
+      - name: S7 - Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
